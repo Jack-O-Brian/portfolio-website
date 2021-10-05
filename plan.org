@@ -1,0 +1,26 @@
+#+TITLE: Josh's website
+* Requirements
+  + Deadline :: <2021-10-08 Fri>
+  + Portfolio :: Show off Josh's gaems.
+  + Pages :: The pages on the website
+    * Index :: A single, long page that covers a summary of stuff
+      * About Me :: Quick summary of who the perosn is
+      * Games :: Previous games Josh worked on
+      * Contact Me :: Name and an email can work
+      * Social Media ::  Links to hteir social medai
+	* Itch.io
+	* Twitter
+	* Discord ???? MAYBE
+	* Linkedin
+    * Games  ::
+    * About Me :: index
+    * Experience :: 
+    * Resumes :: PDF of his resume
+    * Concat me ::
+  + Reference :: http://amberr.dev/ is the main one, here's some samples
+    * https://joebrogers.com/
+    * https://www.tapskill.com/
+    * https://matthiasfath.wordpress.com/
+    * http://www.michelmohr.me/
+    * http://www.rebeccaansems.com/
+    * https://frozenfractal.com/

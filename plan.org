@@ -2,25 +2,44 @@
 * Requirements
   + Deadline :: <2021-10-08 Fri>
   + Portfolio :: Show off Josh's gaems.
-  + Pages :: The pages on the website
-    * Index :: A single, long page that covers a summary of stuff
-      * About Me :: Quick summary of who the perosn is
-      * Games :: Previous games Josh worked on
-      * Contact Me :: Name and an email can work
-      * Social Media ::  Links to hteir social medai
-	* Itch.io
-	* Twitter
-	* Discord ???? MAYBE
-	* Linkedin
-    * Games  ::
-    * About Me :: index
-    * Experience :: 
-    * Resumes :: PDF of his resume
-    * Concat me ::
-  + Reference :: http://amberr.dev/ is the main one, here's some samples
-    * https://joebrogers.com/
-    * https://www.tapskill.com/
-    * https://matthiasfath.wordpress.com/
-    * http://www.michelmohr.me/
-    * http://www.rebeccaansems.com/
-    * https://frozenfractal.com/
+** Pages
+   The pages on the website
+   * Index :: A single, long page that covers a summary of stuff
+     * About Me :: Quick summary of who the perosn is. Don't incldue pic: it just isn't good
+     * Games :: Previous games Josh worked on
+       * Many :: Tile based, https://frozenfractal.com/projects as an example
+       * Few :: Scrolling based, like http://amberr.dev
+     * Contact Me :: Name and an email can work
+     * Social Media ::  Links to hteir social medai
+       * Itch.io
+       * Twitter
+       * Discord ???? MAYBE
+       * Linkedin
+   * Games  :: More detail information about the game itslef
+     * Embedd the web games inside the brwoser itself
+   * About Me :: index
+   * Blog? :: Could be a development blog
+   * Experience :: Talk about experience in industry/cybersecurity/game jam, giving much more detail on what Josh did
+   * Resumes :: PDF of his resume
+** Theme
+   + Amber uses :: https://html5up.net/landed
+** Hosting
+** Reference
+   http://amberr.dev/ is the main one, here's some samples/m ythoughts on each
+   * http://amberr.dev/ :: The website is bloated, didn't get to see much of the games themselves.  Putting her role and a learn more is good. Shoudl we just have learn more page or not?
+   * https://joebrogers.com/
+   * https://www.tapskill.com/
+   * https://matthiasfath.wordpress.com/
+   * http://www.michelmohr.me/
+   * http://www.rebeccaansems.com/
+   * https://frozenfractal.com/
+   * https://www.chauhogamedesigner.com/
+   * http://www.michaellevall.com/
+   * http://www.iamdeantate.com/
+   * http://www.mollyjameson.com/
+   * https://www.squashandstretch.org/
+   * http://nicolaskraj.com/
+   * http://www.jayvanhutten.com/
+   * http://www.morganmulhall.com/
+   * https://www.1monkeyarmy.com/
+   * http://www.davidshaver.net/

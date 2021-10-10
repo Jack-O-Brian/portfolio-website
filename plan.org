@@ -7,14 +7,26 @@
    * Index :: A single, long page that covers a summary of stuff
      * About Me :: Quick summary of who the perosn is. Don't incldue pic: it just isn't good
      * Games :: Previous games Josh worked on
-       * Many :: Tile based, https://frozenfractal.com/projects as an example
-       * Few :: Scrolling based, like http://amberr.dev
+       * [ ] Heart clash
+	 + Better cover of Heart clash
+	 + Screenshots
+       * [ ] Rhytmh Girl
+	 + Cover of rhytm girl
+	 + Screenshots
+       * [ ] DoD
+	 + Advisor
+	 + Game developer
+       * [ ] Two Column based format
+       
+       # * Many :: Tile based, https://frozenfractal.com/projects as an example
+       # * Few :: Scrolling based, like http://amberr.dev
      * Contact Me :: Name and an email can work
      * Social Media ::  Links to hteir social medai
-       * Itch.io
-       * Twitter
-       * Discord ???? MAYBE
-       * Linkedin
+       * Itch.io :: https://joshlynn.itch.io/
+       * Twitter ::   https://twitter.com/joshlynngames
+       * Emails :: Forum to contact Joshlyn
+       * YouTube ::  https://www.youtube.com/channel/UCCz8P_03vRNi4Mp_lfx5-CA
+       * Game Jolt :: 
    * Games  :: More detail information about the game itslef
      * Embedd the web games inside the brwoser itself
    * About Me :: index
@@ -23,14 +35,61 @@
    * Resumes :: PDF of his resume
 ** Theme
    + Amber uses :: https://html5up.net/landed
+     # tangent, so I put it in comment
+     # lol we cna use ti to fuck with her
+     # Here is my portoflio site good? "USES SAME THEME EXCEPT WE ACTUALLY FILL OUT THE LOPSERIM AND HAVE FUNCTIONAL STUFF"
+     # Actually bro, I'm just so fucking
+     # Why do people make sites and have obvious things need fixing?
+     # Just make it minimalist bro.... like if you can't even put in the time to fix obvious mistakes like wtf.
 ** Hosting
+  + Github pages
+  + Neocities
 ** Reference
+   :PROPERTIES:
+   :ID:       897c3e4a-77ee-4d54-98d4-3f8ec701db59
+   :END:
+   
+   #+BEGIN_QUOTE
+   > inb4 i hate amberr.dev's site cause hurr dur
+   #+END_QUOTE
+   I like a lot of it. I'm just, puzzled on why she didn't just finish it up. Plus images were too long. It's like she was at the finish line, and then fell. While as a shitposter I'm whiny/angry, as a *professional* I'm more objective.
+
+   
    http://amberr.dev/ is the main one, here's some samples/m ythoughts on each
    * http://amberr.dev/ :: The website is bloated, didn't get to see much of the games themselves.  Putting her role and a learn more is good. Shoudl we just have learn more page or not?
-   * https://joebrogers.com/
-   * https://www.tapskill.com/
-   * https://matthiasfath.wordpress.com/
-   * http://www.michelmohr.me/
+     For her
+     * Loads in 2.6 SECONDS! I recorded it. A lot of it comes from her high res images. So like look up how to compress images
+     * Scroll based project style. The landed theme alows you to put the information in different places: not sure if that's ogod, because it could fuck with reading
+     * Format for pojects is good: say role, description of what they did, link to it. I rather a screenshot, but if you do have a nice cover than this can work.
+     * Dislike the arrows: I like to just scroll sites but we could do it if the clinet wants, (plus landed already has this scorlling feature).
+     * I like the description of the project: learn more brings you detailed on what the game is about, her role, even we see her contributions. I know EXACTLY what she did.
+       # Brah, why would do so much work and leave out shit like *untield*?
+     * If you learn more on a project, you will understand everything about her role.
+   * https://joebrogers.com/ :: Just a resume online basically
+     * Theme :: Minimlist. Whlie I like it cause I'm me, coudl be bad.
+     * Introudction :: Who he is, and a profile pic. I like /Got an interesting project? Send me a message at info@joebrogers.com/ part. Could be good to emulate.
+     * Background/general info :: Three paragraphs of who he is. While I like bodling it, I feel just a bullet list could be nice. 
+     * Skills :: Love it. Would highly recommend to emulate.
+     * Featured projects :: Listed out projects, screenshot, link and with description of his role. We still didn't see screenshots of the games. Like, wtf? Am I just a retard or do people not give a shit about seeing the games thesmelves. Like the game covers sell me on the cover, but I want to see what they did. I don't konw maybe I'm just a schiozid.
+     * Free Assets :: Assets anyone can donwload. Not sure if applicable, but if we can put that in.
+     * Social Media  :: List of sites. I dislike the bottom left inspired by... could have been left out
+   * https://www.tapskill.com/ :: Really cheap web designer. Plus, it doesn't even look ncie
+     * Theme :: Blue/white theme. I dislike his choice of coloring.
+       1. Navbar at beginning doesn't match iwth background
+       2. Colors too poppy: background pic of first image set the tone of muted colors, than it shifted
+       3. Margins feel way too crambed. Amberdev's scroll effect could be good use here.
+     * Introudction :: Like how he describes what he did in | format: =Web Design | Illustration | Game Dev=.
+     * About Me :: Summary of his experience
+     * Services :: Once you level up, we could put in some of this stuff. (Actually, I can make good use of this section)
+       Side note, I wonder how he does this shit so cheap? A vps minmiully cost 3.5$ a month, meaning 42 a year. How can he charge 35 for site, email AND domain register? He must have some giant servers, and just host his own sites. Actually, yea that's what he did. I do the same thing, why am I brain death on how this works?
+     * Section of Category of work :: I like it, but I hate it's presetnation. This close tile approch, with no detail unless you mouse over it or go to a new page: I want to see immedaitly waht he did. At least it's screenshots of the games themselvs
+     * Testomianties :: Could be really good to have
+     * Contact me :: Just standard contact me
+     * Project Page :: I hate it. It's so cheap, and cramped. You shouldn't make a seperate page for a project, unless you can give a long discussion on it.
+   * https://matthiasfath.wordpress.com/ :: I like this design, and if I wasn't worried about making a *modern* site I would use it. It's just simple site without having a giant page
+     * Theme :: Boomer ass page. Which is my favorite, /pops open a coold one/
+     * Porject Page :: Describes waht he did. Would like to see more screenshots, but he did just do audio/video (video  was taken down). Also a blurb about the game is nice.
+   * http://www.michelmohr.me/ :: I really like the look of the site. It's presenation of games,
    * http://www.rebeccaansems.com/
    * https://frozenfractal.com/
    * https://www.chauhogamedesigner.com/
@@ -43,3 +102,22 @@
    * http://www.morganmulhall.com/
    * https://www.1monkeyarmy.com/
    * http://www.davidshaver.net/
+   * https://brittanychiang.com/ ::
+   * https://www.kiptoke.com/websites.html :: Andrew Website
+     * Clicking on a screenshot provides more info on the game. In Deticated games 
+
+     
+* Research
+  * https://www.wordstream.com/blog/ws/2019/10/03/website-color-scheme
+  * https://neilpatel.com/blog/website-color-scheme/ 
+  
+* Todo
+** Pages
+   + Games/Experince
+     * Heart Clash
+     * Rhytmh Girl
+     * DoD
+   + Resume
+   + About me page
+   + Contact me
+     * Email

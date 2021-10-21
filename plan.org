@@ -103,8 +103,6 @@
    * https://www.1monkeyarmy.com/
    * http://www.davidshaver.net/
    * https://brittanychiang.com/ ::
-   * https://www.kiptoke.com/websites.html :: Andrew Website
-     * Clicking on a screenshot provides more info on the game. In Deticated games 
 
      
 * Research
@@ -132,9 +130,9 @@
 + YouTube video fo the trailer
   #+END_SRC
    + Slide show of gifs
-     * Heart Clash
-     * Rhytmh Girl
-     * DoD
+     * [X] Heart Clash :: Just need to get description and it looks good
+     * [ ] Rhytmh Girl
+     * [ ] DoD
    + Resume
    + About me page
    + Contact me

@@ -4116,12 +4116,12 @@ body.is-touch #banner {
 figure {
         display: flex;
         padding: 5px;
-        width: 100%;
+        width: 90%;
 
         margin: auto;
 }
 figure > img{
-        width: 60%;
+        width: 80%;
         margin: auto;
         height: 10%;
 }
@@ -4176,6 +4176,7 @@ dd {
         all: unset;
 
         cursor: pointer;
+        color: blue;
         position: absolute;
         top: 50%;
         width: auto;
@@ -4198,7 +4199,11 @@ dd {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
+        color: #FFFFFF;
         background-color: rgba(0,0,0,0.8);
+}
+.prev > a:hover, .next > a:hover{
+        all:unset;
 }
 
 /* Caption text */

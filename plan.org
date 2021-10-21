@@ -114,6 +114,24 @@
 * Todo
 ** Pages
    + Games/Experince
+     #+BEGIN_SRC markdown
+# About
++ Summary of the game
++ Technologies: 
++ Scope of the game: 
++ Team size: 
+
+# Contribution
++ Role you did
+   * What did you do explicenty
+
+# Impact of the game
++ How popular was it
++ Did it win any awards
++ Screenshots/gifs to show it off
++ YouTube video fo the trailer
+  #+END_SRC
+   + Slide show of gifs
      * Heart Clash
      * Rhytmh Girl
      * DoD
@@ -121,3 +139,5 @@
    + About me page
    + Contact me
      * Email
+   + Home
+     Background gif of all of Joshlynn's games
